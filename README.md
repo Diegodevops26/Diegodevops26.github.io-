@@ -1,4 +1,12 @@
+  
   🚀Diego Santos  👩‍🚀💻
+
+
+![Diego Santos](https://user-images.githubusercontent.com/63413446/125374500-85221880-e35d-11eb-8ed8-b22002a35d6d.png)
+
+
+
+
 
 #Olá Sejam-Benvidos ao meu Github, onde irei postar meus repositorios na minha Jornada de como Programador, teremos um pouco de tudo de Aprendizados ao longo da caminhada $Tenho 27 Anos de Idade, comecei a programar com 23 anos, não sei muita coisa ainda estou em aprendizando constatnte. #Estudante: No IFNMG- Campus Teófilo Otoni - MG #Cursando Análise e Desenvolvimento de Sistemas#
 
@@ -7,7 +15,7 @@ Participei de Alguns Eventos 💻 👩‍🚀 <-- Maratona Benhind The Code - 20
 😉 🚀 💻
 
 
-!(![Diego Santos](https://user-images.githubusercontent.com/63413446/125374500-85221880-e35d-11eb-8ed8-b22002a35d6d.png)
+
 
 
 
